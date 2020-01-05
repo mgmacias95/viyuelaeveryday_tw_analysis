@@ -32,4 +32,4 @@
 
 A graph will be stored in the `interactions.png` file:
 
-[interactions](interactions.png)
+![interactions](interactions.png)
