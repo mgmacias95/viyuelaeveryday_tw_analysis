@@ -27,7 +27,7 @@
 
 6. Run
     ```shellsession
-    ./viyuelaeveryday_tw_analysis
+    $ ./viyuelaeveryday_tw_analysis
     ```
 
 A graph will be stored in the `interactions.png` file:
